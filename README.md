@@ -112,10 +112,16 @@ This comprehensive code provides detailed statistics and creates visualizations 
 ## Running the Analysis
 
 To run either version of the code, follow these steps:
-
 1. Ensure you have Python installed on your system.
 2. Install the required libraries:
    - For the concise version: `pip install pandas`
    - For the comprehensive version: `pip install pandas numpy scipy matplotlib seaborn`
+3. Place the `biscobis-statistical-measures.csv` file in the same directory as the Python script.
+4. Run the script using Python.
+
+
+
+
+
 
 
