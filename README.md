@@ -120,6 +120,9 @@ To run either version of the code, follow these steps:
 4. Run the script using Python.
 
 
+## Note on Displaying Graphs
+
+
 
 
 
