@@ -28,6 +28,8 @@ This project offers two Python scripts for analyzing the Biscobis customer servi
 
 ### Concise Python Code for Quick Analysis
 
+This concise code quickly calculates and outputs the main statistical measures and is perfect for quick analyses or when you need a rapid overview of the data's statistical properties.
+
 ```python
 import pandas as pd
 
@@ -45,9 +47,10 @@ statistics.to_csv('statistical_measures.csv')
 print(statistics)
 ```
 
-This concise code quickly calculates and outputs the main statistical measures and is perfect for quick analyses or when you need a rapid overview of the data's statistical properties.
+### Python Code for Calculating Statistical Measures
 
----
+Here is the Python script to calculate a comprehensive set of statistical measures:
+
 
 ```python
 import pandas as pd
