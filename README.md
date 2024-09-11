@@ -122,6 +122,9 @@ To run either version of the code, follow these steps:
 
 ## Note on Displaying Graphs
 
+When running the comprehensive analysis script, you will now see the graphs displayed on your screen in addition to having them saved as PNG files. If you're running the script in a non-interactive environment (like a server or automated pipeline), you may want to comment out the plt.show() lines to prevent the script from hanging.
+
+
 
 
 
