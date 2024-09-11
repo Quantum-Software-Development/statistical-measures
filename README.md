@@ -47,6 +47,35 @@ print(statistics)
 
 This concise code quickly calculates and outputs the main statistical measures and is perfect for quick analyses or when you need a rapid overview of the data's statistical properties.
 
+```python
+import pandas as pd
+
+# Load the dataset
+data = pd.read_csv('biscobis-statistical-measures.csv')
+
+# Calculate comprehensive statistics
+stats = {
+    "Mean": data.mean(),
+    "Median": data.median(),
+    "Q1": data.quantile(0.25),
+    "Q2": data.quantile(0.50),
+    "Q3": data.quantile(0.75),
+    "Mode": data.mode().iloc[0],  # Simplified mode; first mode only
+    "Minimum": data.min(),
+    "Maximum": data.max(),
+    "Range": data.max() - data.min(),
+    "Variance": data.var(),
+    "Standard Deviation": data.std(),
+    "Coefficient of Variation": data.std() / data.mean()
+}
+stats_df = pd.DataFrame(stats)
+
+# Format the results for easy Excel import
+formatted_stats = stats_df.applymap(lambda x: f"{x:.2f}")
+formatted_stats.to_csv('formatted_statistical_data.csv', index=True)
+print(formatted_stats)
+```
+
 
 ### Comprehensive Python Code for Detailed Analysis
 
