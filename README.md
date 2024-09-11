@@ -113,5 +113,9 @@ This comprehensive code provides detailed statistics and creates visualizations 
 
 To run either version of the code, follow these steps:
 
+1. Ensure you have Python installed on your system.
+2. Install the required libraries:
+   - For the concise version: `pip install pandas`
+   - For the comprehensive version: `pip install pandas numpy scipy matplotlib seaborn`
 
 
