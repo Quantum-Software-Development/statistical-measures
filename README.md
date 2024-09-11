@@ -84,6 +84,8 @@ print(formatted_stats)
 
 ### Comprehensive Python Code for Detailed Analysis
 
+This comprehensive code provides detailed statistics and creates visualizations for deeper insights.
+
 ```python
 import pandas as pd
 import numpy as np
@@ -141,7 +143,6 @@ for column in df.columns:
 print("Analysis complete. Results saved in CSV and PNG files.")
 ```
 
-This comprehensive code provides detailed statistics and creates visualizations for deeper insights.
 
 ## Running the Analysis
 
