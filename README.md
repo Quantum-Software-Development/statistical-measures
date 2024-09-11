@@ -22,4 +22,26 @@ This project offers two Python scripts for analyzing the Biscobis customer servi
 
 ### Concise Python Code for Quick Analysis
 
-`=
+## Python Code for Statistical Analysis
+
+This project offers two Python scripts for analyzing the Biscobis customer service data: a concise version for quick analysis and a comprehensive version for detailed insights.
+
+### Concise Python Code for Quick Analysis
+
+```python
+import pandas as pd
+
+# Load the dataset
+data = pd.read_csv('biscobis-statistical-measures.csv', skiprows=2, encoding='latin1')
+
+# Calculate statistical measures
+statistics = data.describe().T
+statistics['mode'] = data.mode().iloc[0]
+statistics['coefficient_of_variation'] = (statistics['std'] / statistics['mean']) * 100
+
+# Save the results to a CSV file
+statistics.to_csv('statistical_measures.csv')
+
+print(statistics)
+```
+
