@@ -16,7 +16,7 @@ To use this repository, ensure you have Python installed on your system along wi
 
 ## Dataset 
 
-[Click here to download the dataset]()
+[Click here to download the dataset](dataset/bicobbis-statistical-measures.csv)
 
 The dataset `biscobis-statistical-measures.csv` contains customer ratings for the following categories:
 
