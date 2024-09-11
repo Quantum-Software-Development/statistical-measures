@@ -100,7 +100,21 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 def calculate_statistics(data):
-    # [Previous statistics calculation remains the same]
+    return pd.Series({
+        'Mean': np.mean(data),
+        'Median': np.median(data),
+        'Mode': stats.mode(data)[0][0],
+        'Standard Deviation': np.std(data),
+        'Variance': np.var(data),
+        'Range': np.ptp(data),
+        'Minimum': np.min(data),
+        'Maximum': np.max(data),
+        'Q1': np.percentile(data, 25),
+        'Q3': np.percentile(data, 75),
+        'Skewness': stats.skew(data),
+        'Kurtosis': stats.kurtosis(data),
+        'Coefficient of Variation': (np.std(data) / np.mean(data)) * 100
+    })
 
 # Load the dataset
 df = pd.read_csv('biscobis-statistical-measures.csv', skiprows=2, encoding='latin1')
@@ -122,7 +136,6 @@ plt.title('Distribution of Ratings by Category')
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig('boxplot_biscobis.png')
-plt.show()  # Added to display the boxplot
 plt.close()
 
 plt.figure(figsize=(10, 8))
@@ -130,7 +143,6 @@ sns.heatmap(df.corr(), annot=True, cmap='coolwarm')
 plt.title('Correlation Heatmap of Categories')
 plt.tight_layout()
 plt.savefig('heatmap_correlation_biscobis.png')
-plt.show()  # Added to display the heatmap
 plt.close()
 
 def create_histogram(data, column, bins=10):
@@ -140,7 +152,6 @@ def create_histogram(data, column, bins=10):
     plt.xlabel('Value')
     plt.ylabel('Frequency')
     plt.savefig(f'histogram_{column.lower().replace(" ", "_")}.png')
-    plt.show()  # Added to display each histogram
     plt.close()
 
 for column in df.columns:
