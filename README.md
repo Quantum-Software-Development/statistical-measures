@@ -30,15 +30,10 @@ The dataset `biscobis-statistical-measures.csv` contains customer ratings for th
 
 ## Python Code for Statistical Analysis
 
-This project offers two Python scripts for analyzing the Biscobis customer service data: a concise version for quick analysis and a comprehensive version for detailed insights.
+This project provides three Python scripts for analyzing Biscobis customer service data: a concise version for quick analysis, a comprehensive script for calculating statistical measures, and a detailed version for in-depth insights..
 
-### Concise Python Code for Quick Analysis
 
-## Python Code for Statistical Analysis
-
-This project offers two Python scripts for analyzing the Biscobis customer service data: a concise version for quick analysis and a comprehensive version for detailed insights.
-
-### Concise Python Code for Quick Analysis
+## Concise Python Code for Quick Analysis
 
 This concise code quickly calculates and outputs the main statistical measures and is perfect for quick analyses or when you need a rapid overview of the data's statistical properties.
 
@@ -59,7 +54,7 @@ statistics.to_csv('statistical_measures.csv')
 print(statistics)
 ```
 
-### Python Code for Calculating Statistical Measures
+### Comprehensive Python Code for Calculating Statistical Measures
 
 Here is the Python script to calculate a comprehensive set of statistical measures:
 
