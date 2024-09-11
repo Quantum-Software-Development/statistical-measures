@@ -107,3 +107,11 @@ for column in df.columns:
 print("Analysis complete. Results saved in CSV and PNG files.")
 ```
 
+This comprehensive code provides detailed statistics and creates visualizations for deeper insights.
+
+## Running the Analysis
+
+To run either version of the code, follow these steps:
+
+
+
