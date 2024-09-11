@@ -1,4 +1,4 @@
-# Statistical Measures: Calculation in Excel and Python
+Statistical Measures: Calculation in Excel and Python for Data Science
 
 ## Introduction
 
