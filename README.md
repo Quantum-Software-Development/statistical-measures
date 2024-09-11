@@ -1,8 +1,11 @@
 # Biscobis Customer Service Statistical Analysis
 
-## Project Overview
+## Introduction
 
-This repository contains a statistical analysis of customer service ratings for Biscobis Ltd. The analysis is based on a survey of 100 customers who rated seven different aspects of the company's services.
+Welcome to the "Comprehensive Statistical Analysis of Biscobis Dataset" repository. This repository is designed to perform detailed statistical analysis on the provided dataset biscobis-statistical-measures.csv. The analysis covers various statistical measures, including mean, median, mode, minimum, maximum, range, variance, standard deviation, and coefficient of variation.
+
+
+
 
 ## Dataset 
 
