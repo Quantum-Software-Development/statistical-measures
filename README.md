@@ -45,3 +45,8 @@ statistics.to_csv('statistical_measures.csv')
 print(statistics)
 ```
 
+This concise code quickly calculates and outputs the main statistical measures and is perfect for quick analyses or when you need a rapid overview of the data's statistical properties.
+
+
+### Comprehensive Python Code for Detailed Analysis
+
