@@ -16,3 +16,10 @@ The dataset `biscobis-statistical-measures.csv` contains customer ratings for th
 6. Sales force
 7. Product quality
 
+## Python Code for Statistical Analysis
+
+This project offers two Python scripts for analyzing the Biscobis customer service data: a concise version for quick analysis and a comprehensive version for detailed insights.
+
+### Concise Python Code for Quick Analysis
+
+`=
