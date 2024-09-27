@@ -1,0 +1,9 @@
+
+cff-version: 1.2.0
+title:  Quantum-Software-Development - statistical-measures
+message: If you really want to cite this repository, here's how you should cite it.
+type: software
+authors:
+  - given-names: Quantum-Software-Development - statistical-measures 
+repository-code: https://github.com/Quantum-Software-Development/statistical-measures
+license: MIT License 
