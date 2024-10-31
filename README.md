@@ -242,6 +242,9 @@ To run either version of the code, follow these steps:
 
 When running the comprehensive analysis script, you will now see the graphs displayed on your screen in addition to having them saved as PNG files. If you're running the script in a non-interactive environment (like a server or automated pipeline), you may want to comment out the plt.show() lines to prevent the script from hanging.
 
+#
+
+###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
 
 
 
