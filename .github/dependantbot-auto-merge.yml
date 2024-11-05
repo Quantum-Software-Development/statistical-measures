@@ -4,8 +4,8 @@ on:
   pull_request:
 
 permissions:
-  pull-requests: read
-  issues: read
+  pull-requests: write
+  issues: write
 
 jobs:
   worker:
