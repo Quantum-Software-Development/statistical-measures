@@ -28,7 +28,7 @@ beautifulsoup4==4.12.3
 requests==2.32.3
 
 # Database Libraries:
-sqlalchemy==2.0.36
+sqlalchemy==2.0.37
 psycopg2-binary==2.9.10
 
 # Jupyter Notebook Libraries:
