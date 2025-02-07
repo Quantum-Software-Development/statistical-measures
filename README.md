@@ -1,11 +1,20 @@
 <br><br>
 
-# ✍️ Statistical Measures: Calculation in Excel and Python for Data Science
+# ✍️ Statistical Measures and 🏦 Bovespa Banks Value Analysis  : Calculation in Excel and Python for Data Science
+  #### <p align="center"> [University of Data Science and Artificial Intelligence]() - PUC-SP - 2nd Semester/2024
 
-<br>
+<br>  
+
+<!-- video presentation -->
+
+https://github.com/user-attachments/assets/a5be1c12-73c1-4515-869b-9adf116f1d73
+
+##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()
 
 
-### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+#### <p align="center"> 📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
+
+<br><br>
 
 <br>
 
