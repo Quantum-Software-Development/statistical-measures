@@ -1,20 +1,20 @@
 <br><br>
 
-# ✍️ Statistical Measures and 🏦 [Bovespa Banks Value Analysis](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis)  : Calculation in Excel and Python for Data Science
-  #### <p align="center"> [University of Data Science and Artificial Intelligence]() - PUC-SP - 2nd Semester/2024
+## ✍️ Statistical Measures and 🏦 [Bovespa Banks Value Analysis](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis)  : Calculation in Excel and Python for Data Science
+### <p align="center"> [University of Data Science and Artificial Intelligence]() - PUC-SP - 2nd Semester/2024
+
+
 
 <br>  
 
 <!-- video presentation -->
 
+#####  📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
+
 https://github.com/user-attachments/assets/a5be1c12-73c1-4515-869b-9adf116f1d73
 
 ##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()
 
-
-#### <p align="center"> 📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
-
-<br><br>
 
 <br>
 
