@@ -1,9 +1,9 @@
 <br><br>
 
-## ✍️ Statistical Measures and 🏦 [Bovespa Banks Value Analysis](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis)  : Calculation in Excel and Python for Data Science
+## ✍️ Statistical Measures and [Bovespa Banks Value Analysis](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis)  : Calculation in Excel and Python for Data Science
 ### <p align="center"> [University of Data Science and Artificial Intelligence]() - PUC-SP - 2nd Semester/2024
 
-
+ 
 
 <br>  
 
