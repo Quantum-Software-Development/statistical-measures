@@ -3,11 +3,11 @@
 ## ✍️ Statistical Measures and [Bovespa Banks Value Analysis](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis)  : Calculation in Excel and Python for Data Science
 ### <p align="center"> [University of Data Science and Artificial Intelligence]() - PUC-SP - 2nd Semester/2024
 
- 
 
 <br><br>    
 
 <!-- video presentation -->
+
 
 <br>
 
@@ -17,9 +17,17 @@ https://github.com/user-attachments/assets/025d8ff0-f2b0-4eb6-b40c-56ef7c533383
 
 <br>
 
-#####  📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
+####  📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
 
-<br>
+
+
+<br><br>
+
+<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
+<br><br>
 
 
 ## Introduction
