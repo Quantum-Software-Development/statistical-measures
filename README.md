@@ -1,3 +1,10 @@
+
+<br>
+
+**\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]**
+
+
+
 <br><br>
 
 ## ✍️ Statistical Measures and [Bovespa Banks Value Analysis](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis)  : Calculation in Excel and Python for Data Science
