@@ -1,11 +1,11 @@
 
 # Framework Web Application:
-Django==5.1.7
+Django==5.1.15
 
 
 # Data Manipulation Libraries:
 numpy==2.2.4
-pandas==2.3.1
+pandas==2.3.3
 
 # Data Visualization Libraries:
 matplotlib==3.10.1
@@ -16,19 +16,23 @@ scipy==1.15.2
 scikit-learn==1.6.1
 
 # Machine Learning Libraries:
+
 tensorflow==2.20.0
-keras==3.10.0
+keras==3.13.1
+
 
 # Natural Language Processing Libraries:
 nltk==3.9.1
 spacy==3.8.7
 
 # Web Scraping Libraries:
+
 beautifulsoup4==4.13.4
-requests==2.32.4
+requests==2.32.5
+
 
 # Database Libraries:
-sqlalchemy==2.0.42
+sqlalchemy==2.0.44
 psycopg2-binary==2.9.10
 
 # Jupyter Notebook Libraries:
